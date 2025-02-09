@@ -1,0 +1,3 @@
+vllm
+trl
+datasets
