@@ -1,0 +1,38 @@
+{
+  "os":  "Linux-5.15.0-91-generic-x86_64-with-glibc2.35",
+  "python":  "CPython 3.12.3",
+  "startedAt":  "2025-02-09T08:41:38.434409Z",
+  "program":  "/root/grpo/length_grpo.py",
+  "codePath":  "length_grpo.py",
+  "email":  "songsc.hello@gmail.com",
+  "root":  "/root/grpo",
+  "host":  "autodl-container-82b4428160-ffe7708e",
+  "executable":  "/root/miniconda3/bin/python",
+  "codePathLocal":  "length_grpo.py",
+  "cpu_count":  90,
+  "cpu_count_logical":  180,
+  "gpu":  "NVIDIA L20",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "32212254720",
+      "used":  "13591482368"
+    }
+  },
+  "memory":  {
+    "total":  "1014510821376"
+  },
+  "cpu":  {
+    "count":  90,
+    "countLogical":  180
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA L20",
+      "memoryTotal":  "51527024640",
+      "cudaCores":  11776,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}

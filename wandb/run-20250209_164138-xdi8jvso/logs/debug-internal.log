@@ -1,0 +1,15 @@
+{"time":"2025-02-09T16:41:38.435598262+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/root/grpo/wandb/run-20250209_164138-xdi8jvso/logs/debug-core.log"}
+{"time":"2025-02-09T16:41:38.538932545+08:00","level":"INFO","msg":"created new stream","id":"xdi8jvso"}
+{"time":"2025-02-09T16:41:38.538987491+08:00","level":"INFO","msg":"stream: started","id":"xdi8jvso"}
+{"time":"2025-02-09T16:41:38.539014367+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xdi8jvso"}
+{"time":"2025-02-09T16:41:38.539032211+08:00","level":"INFO","msg":"handler: started","stream_id":"xdi8jvso"}
+{"time":"2025-02-09T16:41:38.539073588+08:00","level":"INFO","msg":"sender: started","stream_id":"xdi8jvso"}
+{"time":"2025-02-09T16:41:39.053400102+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-09T17:05:07.159418808+08:00","level":"INFO","msg":"stream: closing","id":"xdi8jvso"}
+{"time":"2025-02-09T17:05:07.159468208+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-09T17:05:07.160215069+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-09T17:05:09.304189142+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-09T17:05:10.100732039+08:00","level":"INFO","msg":"handler: closed","stream_id":"xdi8jvso"}
+{"time":"2025-02-09T17:05:10.100801403+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xdi8jvso"}
+{"time":"2025-02-09T17:05:10.100814884+08:00","level":"INFO","msg":"sender: closed","stream_id":"xdi8jvso"}
+{"time":"2025-02-09T17:05:10.10087736+08:00","level":"INFO","msg":"stream: closed","id":"xdi8jvso"}
